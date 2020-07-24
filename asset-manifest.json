@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mohit19841/ELabour/tree/master/client/static/css/main.d827d0d7.chunk.css",
+    "main.js": "/mohit19841/ELabour/tree/master/client/static/js/main.b5e8910f.chunk.js",
+    "main.js.map": "/mohit19841/ELabour/tree/master/client/static/js/main.b5e8910f.chunk.js.map",
+    "runtime-main.js": "/mohit19841/ELabour/tree/master/client/static/js/runtime-main.8719eb42.js",
+    "runtime-main.js.map": "/mohit19841/ELabour/tree/master/client/static/js/runtime-main.8719eb42.js.map",
+    "static/css/2.d249f610.chunk.css": "/mohit19841/ELabour/tree/master/client/static/css/2.d249f610.chunk.css",
+    "static/js/2.7d397afa.chunk.js": "/mohit19841/ELabour/tree/master/client/static/js/2.7d397afa.chunk.js",
+    "static/js/2.7d397afa.chunk.js.map": "/mohit19841/ELabour/tree/master/client/static/js/2.7d397afa.chunk.js.map",
+    "index.html": "/mohit19841/ELabour/tree/master/client/index.html",
+    "precache-manifest.806d2b9f098622f10e9cc93a80e862dd.js": "/mohit19841/ELabour/tree/master/client/precache-manifest.806d2b9f098622f10e9cc93a80e862dd.js",
+    "service-worker.js": "/mohit19841/ELabour/tree/master/client/service-worker.js",
+    "static/css/2.d249f610.chunk.css.map": "/mohit19841/ELabour/tree/master/client/static/css/2.d249f610.chunk.css.map",
+    "static/css/main.d827d0d7.chunk.css.map": "/mohit19841/ELabour/tree/master/client/static/css/main.d827d0d7.chunk.css.map",
+    "static/js/2.7d397afa.chunk.js.LICENSE.txt": "/mohit19841/ELabour/tree/master/client/static/js/2.7d397afa.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/mohit19841/ELabour/tree/master/client/static/media/CircularStd-MediumItalic.451b6f03.woff",
+    "static/media/jobsite.jpg": "/mohit19841/ELabour/tree/master/client/static/media/jobsite.52376295.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8719eb42.js",
+    "static/css/2.d249f610.chunk.css",
+    "static/js/2.7d397afa.chunk.js",
+    "static/css/main.d827d0d7.chunk.css",
+    "static/js/main.b5e8910f.chunk.js"
+  ]
+}
