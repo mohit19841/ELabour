@@ -18,7 +18,7 @@
     "react-simple-checkbox": "^1.3.0",
     "react-table": "^7.0.4"
   },
-  "homepage": "https://github.com/mohit19841/ELabour/tree/master/client",
+  "homepage": "https://github.com/mohit19841/ELabour",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
