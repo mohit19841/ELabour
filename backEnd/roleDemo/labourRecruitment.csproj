@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>aspnet-roleDemo-06F06347-EDBF-4FEF-A9E8-C6AD6D7B10FF</UserSecretsId>
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200423053736_InitialCreate.cs" />
+    <Compile Remove="Migrations\20200423053736_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200423054639_IntialCreate.cs" />
+    <Compile Remove="Migrations\20200423054639_IntialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200425060859_InitialCreate.cs" />
+    <Compile Remove="Migrations\20200425060859_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200426005625_AddedSkillId.cs" />
+    <Compile Remove="Migrations\20200426005625_AddedSkillId.Designer.cs" />
+    <Compile Remove="Migrations\20200426011406_IntialCreate.cs" />
+    <Compile Remove="Migrations\20200426011406_IntialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200428042154_IntialCreate.cs" />
+    <Compile Remove="Migrations\20200428042154_IntialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200428064633_IntialCreate.cs" />
+    <Compile Remove="Migrations\20200428064633_IntialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200430031020_IntialCreate.cs" />
+    <Compile Remove="Migrations\20200430031020_IntialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200430210832_AddedDuration.cs" />
+    <Compile Remove="Migrations\20200430210832_AddedDuration.Designer.cs" />
+    <Compile Remove="Migrations\20200430211815_IntialCreate.cs" />
+    <Compile Remove="Migrations\20200430211815_IntialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200502043741_InitialCreate.cs" />
+    <Compile Remove="Migrations\20200502043741_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200507012407_AddedOnLeavetoLabourer.cs" />
+    <Compile Remove="Migrations\20200507012407_AddedOnLeavetoLabourer.Designer.cs" />
+  </ItemGroup>
+
+
+  
+  <ItemGroup>
+    <PackageReference Include="Hangfire" Version="1.7.11" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.11" />
+    <PackageReference Include="Hangfire.MemoryStorage" Version="1.7.0" />
+    <PackageReference Include="Hangfire.SQLite" Version="1.4.2" />
+    <PackageReference Include="Hangfire.SqlServer" Version="1.7.11" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.112.2" />
+  </ItemGroup>
+
+</Project>
